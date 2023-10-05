@@ -22,7 +22,7 @@ def get_chain(
 
     if tracing:
         tracer = LangChainTracer()
-        tracer.load_default_session()
+        # tracer.load_default_session()
         manager.add_handler(tracer)
         question_manager.add_handler(tracer)
         stream_manager.add_handler(tracer)

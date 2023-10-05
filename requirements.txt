@@ -13,3 +13,5 @@ unstructured
 libmagic
 tiktoken
 pdfminer.six
+chromadb
+sentence-transformers
