@@ -142,4 +142,5 @@ langchain.readthedocs.io/
 data/
 vectorstores_faiss/
 db/
-.vscode/launch.json
+
+.vscode/
