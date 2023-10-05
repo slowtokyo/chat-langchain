@@ -145,3 +145,4 @@ vectorstores_faiss/
 db/
 
 .vscode/
+.vscode/launch.json
